@@ -3,7 +3,7 @@
   Plugin Name: Custom Post List Order
   Plugin URI: https://blog-bootcamp.jp/custom-post-list-order/
   Description: Sort the posted articles in order of published date or update date, page view.
-  Version: 1.0.1
+  Version: 1.0.2
   Author: BLOG BOOT CAMP
   Author URI: https://blog-bootcamp.jp
   License: GPLv2 or later

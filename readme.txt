@@ -4,7 +4,7 @@ Donate link: https://blog-bootcamp.jp/custom-post-list-order/
 Tags: post list order, post order, posts list order, posts order, order post list, order posts list, order post, order posts, custom category order, custom taxonomy order
 Requires at least: 4.7
 Tested up to: 5.8
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -63,6 +63,9 @@ OR
 1. Setting Page
 
 == Changelog ==
+
+= 1.0.2 =
+* Bug fix
 
 = 1.0.1 =
 * Bug fix
