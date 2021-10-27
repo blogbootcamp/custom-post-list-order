@@ -27,7 +27,7 @@ On the settings page, select the sorting condition.
 
 = Credits =
 
-This plugin is created by <a href="https://blog-bootcamp.jp">BLOG BOOT CAMP</a> team.
+This plugin is created by <a href="https://blog-bootcamp.jp/profile/">BLOG BOOT CAMP ALEX</a>.
 
 = Read more =
 
@@ -42,6 +42,11 @@ More information about Custom Post List Order is provided below.
 = Can I set different sorting conditions for each page? =
 
 Currently, only uniform sorting conditions are supported.
+
+= The article list is not displayed after setting "Order by Page Views"? =
+
+This plugin starts getting page views data after installed and activated. So, it takes some time before the article list to be displayed in page view order.
+Please wait a few hours.
 
 == Installation ==
 

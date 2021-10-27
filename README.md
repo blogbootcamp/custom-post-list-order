@@ -2,6 +2,8 @@
 
 <a href="https://blog-bootcamp.jp/custom-post-list-order/">Custom Post List Order</a> is WordPress Plugin that sort the posted articles in order of published date or update date, page view.
 
+This plugin is created by <a href="https://blog-bootcamp.jp/profile/">BLOG BOOT CAMP ALEX</a>.
+
 
 ## Description
 The following conditions can be set for sorting.
